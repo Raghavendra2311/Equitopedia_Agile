@@ -7,14 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1BnPIwQ2h_PaUJ-qw-5_GWMxGWyWUxxzt
 """
 
-!pip install streamlit
-
-!pip install mftool
-
-!pip install yahoo_fin
-
-!pip install cryptocmd
-
 import streamlit as st
 import pandas as pd
 import requests
