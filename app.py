@@ -10,7 +10,7 @@ Original file is located at
 import streamlit as st
 import pandas as pd
 import requests
-from plotly import graph_objs as go
+
 import yfinance as yf
 from mftool import Mftool
 import datetime
