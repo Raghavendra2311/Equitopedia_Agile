@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import requests
-import yfinance as yf
+
 from mftool import Mftool
 import datetime
 import cufflinks as cf
