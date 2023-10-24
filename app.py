@@ -20,6 +20,6 @@ cf.set_config_file(offline=False, world_readable=True)
 from yahoo_fin import stock_info as si
 import streamlit as st
 from cryptocmd import CmcScraper
-from plotly import graph_objs as go
+
 import time
 
