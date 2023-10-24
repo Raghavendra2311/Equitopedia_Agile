@@ -3,7 +3,6 @@ pandas
 ephem
 pystan == 2.19.1.1
 requests == 2.25.1
-
 plotly
 yfinance
 mftool
